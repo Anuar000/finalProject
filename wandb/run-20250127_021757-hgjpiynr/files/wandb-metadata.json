@@ -1,0 +1,31 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.9.13",
+  "startedAt": "2025-01-26T21:17:57.489403Z",
+  "program": "C:\\Users\\Phantom\\PycharmProjects\\finalProject\\finalScript.py",
+  "codePath": "finalScript.py",
+  "git": {
+    "remote": "https://github.com/Anuar000/finalProject.git",
+    "commit": "d1738d7a054fbf4497ecd6ecee9cd01919f4daef"
+  },
+  "email": "anuard03@gmail.com",
+  "root": "C:\\Users\\Phantom\\PycharmProjects\\finalProject",
+  "host": "Anchik",
+  "executable": "C:\\Users\\Phantom\\PycharmProjects\\finalProject\\.venv\\Scripts\\python.exe",
+  "codePathLocal": "finalScript.py",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "511232946176",
+      "used": "278388117504"
+    }
+  },
+  "memory": {
+    "total": "7866093568"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  }
+}
